@@ -1,0 +1,2 @@
+# inventario
+ proyecto simple laravel
