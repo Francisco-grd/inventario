@@ -1,0 +1,2 @@
+# inventario
+inventario larevel simple
